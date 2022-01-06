@@ -13,4 +13,4 @@ Output:
  - Confusion matrix including the overall accuracy and confusion matrix in percent 
 
 
-
+A sample output result is uploaded named:  subset_3_classification_CM_with0GrassClass
