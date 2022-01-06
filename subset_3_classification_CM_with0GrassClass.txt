@@ -1,0 +1,19 @@
+Confusion Matrix: Z:/Aria-data/Minervois_2016/subset3/subset_3_classification
+
+Overal accuracy : (3588/5816)    61.6919%
+
+                  Ground Truth (Pixels) 
+     Class           Soil           Vine         Shadow          Grass          Total 
+      Soil           1335             20              7             81           1443 
+      Vine            309            437            171             84           1001 
+    Shadow             32           1059           1296             70           2457 
+     Grass            388              6              1            520            915 
+     Total           2064           1522           1475            755           5816 
+
+                  Ground Truth (Percent) 
+     Class           Soil           Vine         Shadow          Grass          Total       
+      Soil          64.68           1.31           0.47          10.73          24.81 
+      Vine          14.97          28.71          11.59          11.13          17.21 
+    Shadow           1.55          69.58          87.86           9.27          42.25 
+     Grass          18.80           0.39           0.07          68.87          15.73 
+     Total         100.00         100.00         100.00         100.00         100.00 
