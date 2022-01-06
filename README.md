@@ -14,3 +14,5 @@ Output:
 
 
 A sample output result is uploaded named:  subset_3_classification_CM_with0GrassClass
+
+There is also an IDL code for classification assessment named classification_accuracy.pro.This code using ENVI functions in batch mode.  
